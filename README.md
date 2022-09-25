@@ -1,4 +1,5 @@
 # Hack the planets 2022
+![Alt Text](assets/fakes_loop.gif)
 ## Table of contents
 - [Hack the planets 2022](#hack-the-planets-2022)
   - [Table of contents](#table-of-contents)
@@ -9,9 +10,9 @@
     - [StyleGAN2-ADA - ppc64le (POWER9)](#stylegan2-ada---ppc64le-power9)
       - [Dataset for StyleGAN2-ADA](#dataset-for-stylegan2-ada)
       - [Training](#training)
+      - [Generating](#generating)
       - [Tensorboard](#tensorboard)
       - [Workarounds](#workarounds)
-      - [Results](#results)
 ## Docker image
 
 You can build a docker image that provides an Ubuntu OS with python 3.8 and the adamapi python library.
